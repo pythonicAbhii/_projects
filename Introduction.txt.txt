@@ -1,0 +1,8 @@
+There is a story behind this project,one of my freind is a rap artist and have some grear videos on youtube so one day he said to me that as you are learning data analysis technique so can you give me
+a brief statistics of my youtube video's data and i was like why not? so i just give him a satistical description of his youtube videos data along with their visualization.
+			Thats it here my story ends!! hahahaha i know its bad..
+
+
+So this project for anyone who wants to analyze youtube videos data of a particular artist or anyone having interest in mining youtube data..you just simply chnage the name of the artist in the script and you get the results.
+
+You can also predict the likes on an upcoming video of a particular artist on the basis of how much time a video got viewed..  
